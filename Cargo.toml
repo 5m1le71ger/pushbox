@@ -1,0 +1,6 @@
+[package]
+name = "pushbox"
+version = "0.1.0"
+authors = ["5m1le71ger <hewen7@sina.com>"]
+
+[dependencies]
